@@ -3,7 +3,7 @@
   "displayName": "Miezhiko Theme",
   "description": "Miezhiko theme for VScode.",
   "publisher": "Miezhiko",
-  "license": "ISC",
+  "license": "GPLv3",
   "version": "0.1.0",
   "engines": {
     "vscode": "^1.33.0"
@@ -14,7 +14,7 @@
   "keywords": [
     "theme"
   ],
-  "icon": "1337.png",
+  "icon": "Miezhiko.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Miezhiko/Miezhiko-theme"

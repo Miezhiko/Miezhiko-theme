@@ -13,3 +13,5 @@
 # How to package
 
  - vsce package
+
+![alt text](https://github.com/Miezhiko/Miezhiko-theme/blob/mawa/Miezhiko.png?raw=true)
