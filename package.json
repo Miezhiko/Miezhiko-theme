@@ -27,5 +27,8 @@
         "path": "./themes/Miezhiko-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "ovsx": "^0.2.0"
   }
 }

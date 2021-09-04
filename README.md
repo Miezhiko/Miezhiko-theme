@@ -8,7 +8,7 @@
 # How to get
 
  - VSCode: https://marketplace.visualstudio.com/items?itemName=Miezhiko.Miezhiko-theme
- - VSCodium: https://open-vsx.org/extension/Miezhiko/Miezhiko-theme
+ - VSCodium: https://open-vsx.org/extension/Miezhiko/miezhiko
 
 # How to package
 
