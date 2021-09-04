@@ -1,10 +1,10 @@
 {
-  "name": "hot-emo-theme",
-  "displayName": "Hot Emo Theme",
-  "description": "Hot Emo theme for VScode.",
-  "publisher": "Qeenon",
+  "name": "miezhiko",
+  "displayName": "Miezhiko Theme",
+  "description": "Miezhiko theme for VScode.",
+  "publisher": "Miezhiko",
   "license": "ISC",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.33.0"
   },
@@ -17,14 +17,14 @@
   "icon": "1337.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Qeenon/hot-emo-theme"
+    "url": "https://github.com/Miezhiko/Miezhiko-theme"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Hot Emo Theme",
+        "label": "Miezhiko Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/hot-emo-theme.json"
+        "path": "./themes/Miezhiko-theme.json"
       }
     ]
   }

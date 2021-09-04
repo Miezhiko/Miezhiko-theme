@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Hot Emo Theme",
+  "name": "Miezhiko Theme",
   "type": "dark",
   "editor.semanticHighlighting.enabled": false,
   "colors": {
@@ -8,16 +8,16 @@
     "foreground": "#f5eaf5",
     "focusBorder": "#333F4A",
 
-    "selection.background": "#ff9ad598",
-    "icon.foreground": "#dd71b9",
+    "selection.background": "#ff9aab98",
+    "icon.foreground": "#dd7183",
 
-    "textLink.activeForeground": "#a1719f",
-    "textLink.foreground": "#a17187",
-    "textPreformat.foreground": "#a17191",
+    "textLink.activeForeground": "#a17187",
+    "textLink.foreground": "#a17171",
+    "textPreformat.foreground": "#a1717d",
     "textBlockQuote.background": "#B7C5D3",
     "textBlockQuote.border": "#B7C5D3",
     "textCodeBlock.background": "#B7C5D3",
-    "textSeparator.foreground": "#a17191",
+    "textSeparator.foreground": "#a17177",
 
     "activityBar.background": "#1D252C",
     "activityBar.border": "#333F4A",
@@ -26,16 +26,16 @@
     "activityBarBadge.foreground": "#181e24",
 
     "badge.background": "#363133aa",
-    "badge.foreground": "#f1c4d0",
+    "badge.foreground": "#f1c4c4",
 
-    "breadcrumb.foreground": "#9971a1",
+    "breadcrumb.foreground": "#a17171",
     "breadcrumb.focusForeground": "#b7c5d3",
     "breadcrumb.activeSelectionForeground": "#41505e",
     "breadcrumbPicker.background": "#28323a",
 
     "button.background": "#1D252C",
     "button.foreground": "#fff",
-    "button.hoverBackground": "#ec8cc1",
+    "button.hoverBackground": "#ec8c99",
     
     "dropdown.background": "#41505e",
     "dropdown.border": "#41505e",
@@ -47,7 +47,7 @@
     "editor.foreground": "#B7C5D3",
     "editor.findMatchBackground": "#b7c5d380",
     "editor.findMatchHighlightBackground": "#b7c5d330",
-    "editor.findRangeHighlightBackground": "#6e1e79",
+    "editor.findRangeHighlightBackground": "#791e1e",
     "editor.hoverHighlightBackground": "#333F4A",
     "editor.inactiveSelectionBackground": "#1D252C",
     "editor.lineHighlightBackground": "#28313a",
@@ -100,8 +100,8 @@
     "editorWidget.border": "#333F4A",
     "errorForeground": "#e27e8d",
 
-    "extensionButton.prominentBackground": "#dd71b9",
-    "extensionButton.prominentHoverBackground": "#dd71b9aa",
+    "extensionButton.prominentBackground": "#dd7272",
+    "extensionButton.prominentHoverBackground": "#dd7171aa",
     "extensionButton.prominentForeground": "#fff",
 
     "gitDecoration.addedResourceForeground": "#5ed694",
@@ -109,7 +109,7 @@
     "gitDecoration.deletedResourceForeground": "#d14040",
     "gitDecoration.ignoredResourceForeground": "#978c94",
     "gitDecoration.modifiedResourceForeground": "#f7b2f6",
-    "gitDecoration.submoduleResourceForeground": "#9851db",
+    "gitDecoration.submoduleResourceForeground": "#db7851",
     "gitDecoration.untrackedResourceForeground": "#6ac0b9",
 
     "input.background": "#333F4A",
@@ -130,7 +130,7 @@
     "list.dropBackground": "#333F4A",
     "list.focusBackground": "#333F4A",
     "list.focusForeground": "#b7c5d3",
-    "list.highlightForeground": "#f35e97",
+    "list.highlightForeground": "#f35e72",
     "list.hoverBackground": "#1D252C",
     "list.hoverForeground": "#b7c5d3",
     "list.inactiveSelectionBackground": "#333F4A",
@@ -138,7 +138,7 @@
 
     "notificationCenterHeader.background": "#070307",
     "notifications.background": "#2c272c",
-    "notifications.foreground": "#dd71b9",
+    "notifications.foreground": "#dd7171",
 
     "panel.background": "#171d23",
     "panel.border": "#171d23",
@@ -158,11 +158,11 @@
     "peekViewResult.selectionForeground": "#fff",
     "peekViewTitle.background": "#15232d",
     "peekViewTitleDescription.foreground": "#b7c5d3",
-    "peekViewTitleLabel.foreground": "#e69fd0",
+    "peekViewTitleLabel.foreground": "#e69fab",
 
     "pickerGroup.border": "#333F4A",
-    "pickerGroup.foreground": "#dd71b9",
-    "progressBar.background": "#dd71b9",
+    "pickerGroup.foreground": "#dd718c",
+    "progressBar.background": "#dd718c",
 
     "scrollbar.shadow": "#00000000",
     "scrollbarSlider.activeBackground": "#333F4A",
@@ -179,7 +179,7 @@
     "statusBar.background": "#171d23",
     "statusBar.border": "#1D252C",
     "statusBar.debuggingBackground": "#171d23",
-    "statusBar.debuggingForeground": "#bc95e0",
+    "statusBar.debuggingForeground": "#e09595",
     "statusBar.foreground": "#f5eaf5",
     "statusBar.noFolderBackground": "#171d23",
     "statusBar.noFolderForeground": "#f5eaf5",
@@ -189,7 +189,7 @@
     "statusBarItem.prominentHoverBackground": "#333F4A",
 
     "menubar.selectionBackground": "#171d23",
-    "menubar.selectionForeground": "#dd71b9",
+    "menubar.selectionForeground": "#dd7183",
     "menu.background": "#333F4A",
 
     "minimap.selectionHighlight": "#ecc3e15d",
@@ -220,8 +220,8 @@
     "terminal.ansiBrightYellow": "#ebc548",
     "terminal.ansiWhite": "#a597a1",
     "terminal.ansiBrightWhite": "#f5eaf5",
-    "terminalCursor.foreground": "#dd71b9aa",
-    "terminalCursor.background": "#dd71b9aa",
+    "terminalCursor.foreground": "#dd7e71aa",
+    "terminalCursor.background": "#dd7183aa",
     "terminal.background": "#171d23",
     "terminal.foreground": "#f5eaf5",
 
@@ -236,7 +236,7 @@
     "widget.shadow": "#00000026",
 
     "quickInput.background": "#1D252C",
-    "quickInput.foreground": "#f0a0e9"
+    "quickInput.foreground": "#f0a0b4"
   },
   "tokenColors":[
     {
@@ -246,7 +246,7 @@
         "punctuation.terminator"
       ],
       "settings": {
-        "foreground": "#dd71b9"
+        "foreground": "#dd717f"
       }
     },
     {
@@ -322,7 +322,7 @@
         "meta.function-call.generic"
       ],
       "settings":{
-        "foreground": "#bd8fe9"
+        "foreground": "#e98f9e"
       }
     },
     {
@@ -336,7 +336,7 @@
         "meta.selectionset.graphql meta.arguments.graphql variable.arguments.graphql",
       ],
       "settings": {
-        "foreground": "#dd93cb"
+        "foreground": "#dd93a3"
       }
     },
     {
@@ -414,7 +414,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#a78cc0"
+        "foreground": "#c08c90"
       }
     },
     {
@@ -423,7 +423,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#e6b7e7"
+        "foreground": "#e7b7c3"
       }
     },
     {
@@ -504,7 +504,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#c0a0df"
+        "foreground": "#dfa0ae"
       }
     },
     {
@@ -532,7 +532,7 @@
         "markup.list punctuation.definition.list.begin"
       ],
       "settings": {
-        "foreground": "#dd71b9"
+        "foreground": "#dd7183"
       }
     },
     {
@@ -541,7 +541,7 @@
         "markup.underline.link"
       ],
       "settings": {
-        "foreground": "#a770db"
+        "foreground": "#db7090"
       }
     },
     {
@@ -550,7 +550,7 @@
         "markup.bold"
       ],
       "settings": {
-        "foreground": "#db6363",
+        "foreground": "#63dbc7",
         "fontStyle": "bold"
       }
     },
@@ -560,7 +560,7 @@
         "markup.italic"
       ],
       "settings": {
-        "foreground": "#db6363",
+        "foreground": "#d9db63",
         "fontStyle": "italic"
       }
     },
@@ -611,7 +611,7 @@
         "punctuation.definition.constant.css"
       ],
       "settings": {
-        "foreground": "#D95468"
+        "foreground": "#d95454"
       }
     },
     {
@@ -669,21 +669,21 @@
       "name": "PYTHON - Self Argument",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#b62d65"
+        "foreground": "#b62d3f"
       }
     },
     {
       "name": "PYTHON - Fuction ",
       "scope": "storage.type.function.python",
       "settings": {
-        "foreground": "#b62d65"
+        "foreground": "#b62d2d"
       }
     },
     {
       "name": "PYTHON - Fuction argument ",
       "scope": "meta.function-call.arguments.python",
       "settings": {
-        "foreground": "#d48bce"
+        "foreground": "#d48b95"
       }
     },
     {
