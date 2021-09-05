@@ -35,7 +35,7 @@
 
     "button.background": "#1D252C",
     "button.foreground": "#fff",
-    "button.hoverBackground": "#ec8c99",
+    "button.hoverBackground": "#ec8c996e",
     
     "dropdown.background": "#41505e",
     "dropdown.border": "#41505e",
@@ -100,15 +100,15 @@
     "editorWidget.border": "#333F4A",
     "errorForeground": "#e27e8d",
 
-    "extensionButton.prominentBackground": "#dd7272",
-    "extensionButton.prominentHoverBackground": "#dd7171aa",
+    "extensionButton.prominentBackground": "#dd72727a",
+    "extensionButton.prominentHoverBackground": "#dd717170",
     "extensionButton.prominentForeground": "#fff",
 
     "gitDecoration.addedResourceForeground": "#5ed694",
     "gitDecoration.conflictingResourceForeground": "#ebc548",
     "gitDecoration.deletedResourceForeground": "#d14040",
     "gitDecoration.ignoredResourceForeground": "#978c94",
-    "gitDecoration.modifiedResourceForeground": "#f7b2f6",
+    "gitDecoration.modifiedResourceForeground": "#f7b2c7",
     "gitDecoration.submoduleResourceForeground": "#db7851",
     "gitDecoration.untrackedResourceForeground": "#6ac0b9",
 
@@ -541,7 +541,7 @@
         "markup.underline.link"
       ],
       "settings": {
-        "foreground": "#db7090"
+        "foreground": "#dd809c"
       }
     },
     {

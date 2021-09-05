@@ -3,7 +3,7 @@
 
 ## Miezhiko Theme
 
- - Fork of [Hot Emo Theme](https://github.com/Miezhiko/Miezhiko-theme) but more in red.
+ - Fork of [Hot Emo Theme](https://github.com/Miezhiko/hot-emo-theme) but more in red.
 
 # How to get
 
@@ -13,5 +13,6 @@
 # How to package
 
  - vsce package
+ - ovsx publish --pat <access token>
 
 ![alt text](https://github.com/Miezhiko/Miezhiko-theme/blob/mawa/Miezhiko.png?raw=true)
