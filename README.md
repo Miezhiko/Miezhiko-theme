@@ -5,6 +5,7 @@
 
  - Fork of [Hot Emo Theme](https://github.com/Miezhiko/hot-emo-theme) but more in red.
  - Suggested icon theme: City Lights Black & White
+ - Still work in progress
 
 # How to get
 
