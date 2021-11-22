@@ -12,7 +12,7 @@
     "icon.foreground": "#dd7183",
 
     "textLink.activeForeground": "#a17187",
-    "textLink.foreground": "#a17171",
+    "textLink.foreground": "#d27272",
     "textPreformat.foreground": "#a1717d",
     "textBlockQuote.background": "#B7C5D3",
     "textBlockQuote.border": "#B7C5D3",
@@ -28,7 +28,7 @@
     "badge.background": "#363133aa",
     "badge.foreground": "#f1c4c4",
 
-    "breadcrumb.foreground": "#a17171",
+    "breadcrumb.foreground": "#d27272",
     "breadcrumb.focusForeground": "#b7c5d3",
     "breadcrumb.activeSelectionForeground": "#41505e",
     "breadcrumbPicker.background": "#28323a",
@@ -423,7 +423,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#e7b7c3"
+        "foreground": "#f5a8bb"
       }
     },
     {
