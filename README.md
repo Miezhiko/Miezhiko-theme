@@ -15,6 +15,6 @@
 # How to package
 
  - vsce package
- - ovsx publish --pat <access token>
+ - ovsx publish -pat <access token>
 
 ![alt text](https://github.com/Miezhiko/Miezhiko-theme/blob/mawa/Miezhiko.png?raw=true)
