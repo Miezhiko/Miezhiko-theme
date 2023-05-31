@@ -231,8 +231,6 @@
     "titleBar.inactiveForeground": "#f0eaed33",
 
     "walkThrough.embeddedEditorBackground": "#1D252C",
-    "welcomePage.buttonBackground": "#1D252C",
-    "welcomePage.buttonHoverBackground": "#333F4A",
     "widget.shadow": "#00000026",
 
     "quickInput.background": "#1D252C",
@@ -398,7 +396,7 @@
           "variable"
       ],
       "settings": {
-          "foreground": "#72696f"
+          "foreground": "#999698"
       }
     },
     {
